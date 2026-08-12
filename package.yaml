@@ -1,0 +1,8 @@
+# Package definition for k9s
+
+package_name: k9s
+github_repo: derailed/k9s
+artifact_format: tar.gz
+description: "Kubernetes CLI to manage your clusters in style"
+
+# Build for all Debian suites and all supported architectures.
